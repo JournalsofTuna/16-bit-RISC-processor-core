@@ -1,0 +1,27 @@
+# Vivado temporary and run files
+*.jou
+*.log
+*.str
+*.backup
+*.pb
+*.wdb
+*.vcd
+.Xil/
+hd_visual/
+
+# Project generated directories
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+
+# Bitstream & Implementation outputs
+*.bit
+*.bin
+*.dcp
+*.rpt
+
+# OS specific
+.DS_Store
+Thumbs.db
